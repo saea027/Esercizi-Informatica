@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        File file = new File("src\\Es1\\imput.txt");
+        File file = new File("GestioneFile\\src\\Es1\\imput.txt");
         try(Scanner in = new Scanner(file)){
             int contaRighe = 0;
             int contaParole = 0;
