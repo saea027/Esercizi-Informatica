@@ -12,7 +12,7 @@ public class Main {
                 write.write(rigaModificata);
                 write.newLine();
             }
-            System.out.println("Hai effettuato il tuo cambio di parole in modo efficace");
+            System.out.println("Cambio di parole effettuato.");
         } catch (IOException e) {
             e.printStackTrace();
         }
