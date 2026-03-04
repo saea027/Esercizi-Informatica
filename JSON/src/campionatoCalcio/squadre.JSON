@@ -1,0 +1,43 @@
+{
+  "portieri" : [
+    {"numero" : 1, "nome" : "Samir Handanovic" },
+    {"numero" : 27, "nome" : "Daniele Padelli" },
+    {"numero" : 46, "nome" : "Tommaso Berni" }
+  ],
+
+  "difensori" : [
+    {"numero" : 37, "nome" : "Milan Skriniar" },
+    {"numero" : 6, "nome" : "Stefan de Vrij" },
+    {"numero" : 2, "nome" : "Diego Godin" },
+    {"numero" : 95, "nome" : "Alessandro Bastoni" },
+    {"numero" : 13, "nome" : "Andrea Ranocchia" }
+  ],
+
+  "centroCampisti" : [
+    {"numero" : 23, "nome" : "Nicolò Barella" },
+    {"numero" : 8, "nome" : "Matìas Vecino" },
+    {"numero" : 12, "nome" : "Stefano Sensi" },
+    {"numero" : 5, "nome" : "Roberto Gagliardini" },
+    {"numero" : 19, "nome" : "Valentinp Lazaro" },
+    {"numero" : 87, "nome" : "Antonio Candreva" },
+    {"numero" : 18, "nome" : "Kwadwo Asamoah" },
+    {"numero" : 34, "nome" : "Cristiano Biraghi" }
+  ],
+
+  "attaccanti" : [
+    {"numero" : 7, "nome" : "Alexis Sanchez" },
+    {"numero" : 16, "nome" : "Matteo Politan" },
+    {"numero" : 9, "nome" : "Romelu Lukaku" },
+    {"numero" : 10, "nome" : "Lautarp Martinez" },
+    {"numero" : 30, "nome" : "Sebastiamp Esposito" }
+  ],
+
+  "società" :  {
+    "Nome società" : "FC Internazionale Milano",
+    "Presidente" : "Zhang",
+    "VicePresidente" : "Zanetti",
+    "Allenatore" : "Conte"
+  }
+}
+
+

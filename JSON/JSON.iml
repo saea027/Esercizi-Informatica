@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="github.jsonj" level="project" />
+    <orderEntry type="library" name="github.jsonj1" level="project" />
   </component>
 </module>
